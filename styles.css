@@ -36,6 +36,7 @@ main {
 
 img {
     max-width: 288px;
+    border-radius: 15px;
 }
 
 h2 {
