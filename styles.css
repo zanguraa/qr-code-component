@@ -7,7 +7,6 @@
   }
 
 body {
-    max-width: 1440px;
     background-color: var(--Light-gray);
     font-size: 15px;
     font-family: 'Outfit', sans-serif;
